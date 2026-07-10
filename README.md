@@ -25,7 +25,7 @@ Durante o desenvolvimento, duas abordagens distintas foram testadas e comparadas
 1. **Random Forest (Floresta Aleatória)**
 2. **K-Nearest Neighbors (KNN)**
 
-*[Dica: Após rodar o seu código, verifique qual dos dois modelos teve a maior acurácia e adicione aqui qual foi o vencedor e a sua percentagem de acerto, ex: "O modelo Random Forest obteve o melhor desempenho com X% de acurácia!"]*
+*[Dica: Após rodar o meu código, verifique qual dos dois modelos teve a maior acurácia e adicione aqui qual foi o vencedor e a sua percentagem de acerto, ex: "O modelo Random Forest obteve o melhor desempenho com X% de acurácia!"]*
 
 ## 🚀 Como Executar o Projeto
 
